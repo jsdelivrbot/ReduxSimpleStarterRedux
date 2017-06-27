@@ -1,0 +1,2 @@
+# ReduxSimpleStarterRedux
+Redux
