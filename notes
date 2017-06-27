@@ -1,0 +1,28 @@
+Redux serves to construct APPLICATION STATE and React provides VIEW to display that state
+
+Reducers :- is a function which return a piece of application state
+React Container: is a react component
+connect:- Takes a funcion and a component and create a container
+github.com/stepheninggrider
+Transpile---> Webpack and Babel---- convert es6 code so that browser understand it
+|
+|
+app.js-----> single js file safely run in browser
+JSX transpile to vanilla js
+
+{ 
+   "name": "js", 
+   "version": "1.0.0", 
+   "description": "demo project.", 
+   "scripts": { 
+     "lite": "lite-server –port 10001", 
+     "start": "npm run lite"
+   }, 
+"author": "", 
+"license": "ISC", 
+   "devDependencies": { 
+     "lite-server": "^1.3.1" 
+   } 
+}
+console.developers.google.com
+
